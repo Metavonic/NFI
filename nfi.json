@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "name": "Night Fighter",
+    "symbol": "NFI",
+    "maxSupply": null,
+    "circulatingSupply": 2500000,
+    "marketCap": null,
+    "sourceCode": "https://github.com/Metavonic/NFI/blob/main/code.sol"
+  }
+}
