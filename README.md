@@ -9,10 +9,9 @@ NFI is a ERC20 token which is on various [Ethereum virtual machine chains]() whi
 #### Contract library: [OpenZeppelin](OpenZeppelin.com)
 
 ### Contract Identifiers 
-##### Ethereum Mainnet: 
-##### Binance Smart Chain Mainnet:
-##### Polygon Mainnet:
-##### Moonriver Mainnet: [0x0E937740d99c227dB82F402A214988f0F795C27C]()
-##### Fantom Mainet:
+
+- Moonriver Mainnet:[0x0E937740d99c227dB82F402A214988f0F795C27C](https://moonriver.moonscan.io/address/0x0e937740d99c227db82f402a214988f0f795c27c)
+- Moonbeam Mainet: [0x0E937740d99c227dB82F402A214988f0F795C27C](https://moonbeam.moonscan.io/address/0x0e937740d99c227db82f402a214988f0f795c27c)
+
 
 
