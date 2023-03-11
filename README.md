@@ -14,3 +14,5 @@ NFI is a ERC20 token which is on various [Ethereum virtual machine chains]() whi
 ##### Polygon Mainnet:
 ##### Moonriver Mainnet: [0x0E937740d99c227dB82F402A214988f0F795C27C]()
 ##### Fantom Mainet:
+
+
